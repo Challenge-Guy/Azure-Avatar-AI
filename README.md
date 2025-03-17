@@ -54,9 +54,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 Microsoft Azure for providing the Text to Speech with Avatar service.
 Streamlit for the user-friendly web application framework.
-## Author
-BIBIN KUNJUMON
-bibinkunjumon2020@gmail.com
+
 ## Screenshots of App
 <img width="1422" alt="image" src="https://github.com/bibinkunjumon2020/Azure-Avatar-AI/assets/104210649/08789647-279d-4274-8f6f-028c818c90d3">
 
